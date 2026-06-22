@@ -2,6 +2,10 @@
 
 Este projeto é uma página simples que permite visualizar a estrutura de pastas e arquivos de um projeto.
 
+## Demonstração
+
+![Visualizador de Estrutura de Projeto](docs/visualizador.png)
+
 ## Como usar
 
 1. Abra o arquivo `index.html` no Google Chrome ou Microsoft Edge.
